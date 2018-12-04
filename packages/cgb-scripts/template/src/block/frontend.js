@@ -1,0 +1,1 @@
+/* This File is for Javascript that is needed in the frontend of the blog i.E. a slider */
